@@ -10,12 +10,12 @@
  *
  *                     @category  Mageplaza
  *                     @package   Mageplaza_Spanish
- *                     @copyright Copyright (c) 2017
+ *                     @copyright Copyright (c) 2019
  *                     @license   https://www.mageplaza.com/LICENSE.txt
  */
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'mageplaza_es_ar',
+    'mageplaza_es_es',
     __DIR__
 );
